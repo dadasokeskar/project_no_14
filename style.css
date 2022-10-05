@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(249, 77, 100);
+}
+#contain1{
+    text-align: center;
+    color: rgb(251, 255, 0);
+    font-size: 300%;
+}
+#contain2{
+    background-image: linear-gradient(to bottom,rgb(174, 242, 252),white,rgb(108, 191, 255));
+    color:  rgb(249, 77, 100);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    margin-top: 3%;
+}
+#contain3{
+    background-image: radial-gradient(beige, rgb(253, 249, 11) , white);
+    color:  rgb(249, 77, 100);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    margin-top: 5%;
+}
